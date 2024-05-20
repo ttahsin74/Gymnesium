@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+@media(min-width:576px)and (max-width:767px){
+	 /*menu part star*/
+	 .main_menu {
+		margin-top: 0;
+		background: #e23e38;
+	}
+	.main_menu .navbar-brand {
+		height: 50px;
+		width: 187px;
+	}
+	.main_menu .navbar-brand img {
+		margin-top: 0px;
+	}
+	.main_menu .navbar-toggler i{
+		color:#fff;
+	}
+	 .main_menu #navbarSupportedContent{
+		background: #e23e38;
+		text-align: center;
+	 }
+	 .main_menu .navbar-nav .nav-item .nav-link::after {
+		display: none;
+	}
+	.main_menu .navbar-nav .nav-item .nav-link {
+		line-height: 35px;
+	}
+	/*menu part end*/
+	
+	
+	
+	/*banner part start*/
+	.banner_main {
+		padding: 250px 0 70px;
+	}
+	.banner_text h2 {
+		font-size: 20px;
+	}
+	.banner_text h1 {
+		font-size: 40px;
+	}
+	.banner_text p {
+		font-size: 14px;
+		line-height: 20px;
+	}
+	.banner_text a {
+		padding: 0px 15px;
+		margin-right: 10px;
+	}
+	/*banner part end*/
+	
+	/*about part start*/
+	#about_part {
+		padding: 50px 0;
+	}
+	.about_text p {
+		text-align: justify;
+		padding-bottom: 30px;
+	}
+	.about_mar {
+		margin-top: 30px;
+	}
+	/*about part end*/
+	
+	/*gallery part start */
+	#gallery_part {
+		padding-bottom: 50px;
+	}
+	/*gallery part end */
+	
+	
+	/*team part start */
+	.team_inner {
+		margin-top: 40px;
+	}
+	#team_part {
+		padding-bottom: 50px;
+	}
+	/*team part end */
+	
+	/*test part start*/
+	.text_para p {
+		 text-align: justify;
+	}
+	#test_part {
+		padding-bottom: 50px;
+	}
+	/*test part end*/
+	
+	
+	
+	/*membership part start*/
+	.member_text h4 {
+		padding: 10px 0;
+	}
+	.member_text h3 {
+		padding: 20px 0;
+	}
+	.member_text ul {
+		padding: 20px 0;
+	}
+	.member_text ul p {
+		margin-top: 0px;
+	}
+	.member_text a {
+		padding: 5px 0;
+	}
+	.member_text{
+		margin-bottom: 30px;
+	}
+	#member_part {
+		padding-bottom: 50px;
+	}
+	/*membership part end*/
+	
+	
+	
+	
+	/*counter part start*/
+	.count_text h2 {
+		font-size: 25px;
+	}
+	.count_text p {
+		font-size: 12px;
+	}
+	#class_part {
+		padding: 50px 0;
+	}
+	/*counter part end*/
+	
+	
+	
+	
+	/*class part start*/
+	.class_menu li {
+		width: 33.33%;
+	}
+	.class_text ul li {
+		width: 47.65%;
+		padding: 25px 0;
+	}
+	.class_text ul li:nth-child(5){
+		margin-right: 5px;
+	}
+	.class_text{
+		margin-top: 25px;
+	}
+	/*class part end*/
+}
+
+
+
+@media(max-width:575px){
+ /*menu part star*/
+ .main_menu {
+	margin-top: 0;
+	background: #e23e38;
+}
+.main_menu .navbar-brand {
+	height: 50px;
+	width: 187px;
+}
+.main_menu .navbar-brand img {
+	margin-top: 0px;
+}
+.main_menu .navbar-toggler i{
+	color:#fff;
+}
+ .main_menu #navbarSupportedContent{
+	background: #e23e38;
+	text-align: center;
+ }
+ .main_menu .navbar-nav .nav-item .nav-link::after {
+	display: none;
+}
+.main_menu .navbar-nav .nav-item .nav-link {
+	line-height: 35px;
+}
+/*menu part end*/
+
+
+
+/*banner part start*/
+.banner_main {
+	padding: 250px 0 70px;
+}
+.banner_text h2 {
+	font-size: 20px;
+}
+.banner_text h1 {
+	font-size: 40px;
+}
+.banner_text p {
+	font-size: 14px;
+	line-height: 20px;
+}
+.banner_text a {
+	padding: 0px 15px;
+	margin-right: 10px;
+}
+/*banner part end*/
+
+/*about part start*/
+#about_part {
+	padding: 50px 0;
+}
+.about_text p {
+	text-align: justify;
+	padding-bottom: 30px;
+}
+.about_mar {
+	margin-top: 30px;
+}
+/*about part end*/
+
+/*gallery part start */
+#gallery_part {
+	padding-bottom: 50px;
+}
+/*gallery part end */
+
+
+/*team part start */
+.team_inner {
+	margin-top: 40px;
+}
+#team_part {
+	padding-bottom: 50px;
+}
+/*team part end */
+
+/*test part start*/
+.text_para p {
+	 text-align: justify;
+}
+#test_part {
+	padding-bottom: 50px;
+}
+/*test part end*/
+
+
+
+/*membership part start*/
+.member_text h4 {
+	padding: 10px 0;
+}
+.member_text h3 {
+	padding: 20px 0;
+}
+.member_text ul {
+	padding: 20px 0;
+}
+.member_text ul p {
+	margin-top: 0px;
+}
+.member_text a {
+	padding: 5px 0;
+}
+.member_text{
+	margin-bottom: 30px;
+}
+#member_part {
+	padding-bottom: 50px;
+}
+/*membership part end*/
+
+
+
+
+/*counter part start*/
+.count_text h2 {
+	font-size: 25px;
+}
+.count_text p {
+	font-size: 12px;
+}
+#class_part {
+	padding: 50px 0;
+}
+/*counter part end*/
+
+
+
+
+/*class part start*/
+.class_menu li {
+	width: 33.33%;
+}
+.class_text ul li {
+	width: 47.65%;
+	padding: 25px 0;
+}
+.class_text ul li:nth-child(5){
+	margin-right: 5px;
+}
+.class_text{
+	margin-top: 25px;
+}
+/*class part end*/
+
+
+
+/*membership part start*/
+/*membership part end*/
+
+/*membership part start*/
+/*membership part end*/
+
+/*membership part start*/
+/*membership part end*/
+
+/*membership part start*/
+/*membership part end*/
+
+/*membership part start*/
+/*membership part end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
